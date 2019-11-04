@@ -1,0 +1,266 @@
+{
+  "albums": [
+    {
+      "coverPic": "https://images.pexels.com/photos/313690/pexels-photo-313690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 1,
+      "name": "Possible Short Hairstyles"
+    },
+    { 
+      "coverPic": "https://images.pexels.com/photos/111130/potatoes-ketchup-murder-blood-111130.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "id": 2,
+      "name": "Foodie"
+    },
+    {
+      "coverPic": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "id": 3,
+      "name": "Doggy"
+    },
+    {
+      "coverPic": "https://images.pexels.com/photos/1485657/pexels-photo-1485657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 4,
+      "name": "Quotes"
+    },
+    {
+      "coverPic": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "id": 5,
+      "name": "Future Home"
+    },
+    {
+      "coverPic": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 6,
+      "name": "Travel Goals"
+    }
+  ],
+
+  "pictures": [
+    {
+      "id": 1,
+      "name": "Too Lazy To Style Hair",
+      "url": "https://images.pexels.com/photos/50998/profile-girl-rose-young-girl-50998.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "name": "Keep It Short",
+      "url": "https://images.pexels.com/photos/41253/ache-adult-depression-expression-41253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 1
+    },
+    {
+      "id": 3,
+      "name": "Buzz Again",
+      "url": "https://images.pexels.com/photos/2313641/pexels-photo-2313641.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "albumId": 1
+    },
+    {
+      "id": 4,
+      "name": "Side Sweep Bangs",
+      "url": "https://images.pexels.com/photos/2702226/pexels-photo-2702226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 1
+    },
+
+
+    {
+      "id": 5,
+      "name": "Pesto Fave",
+      "url": "https://images.pexels.com/photos/2697229/pexels-photo-2697229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 2
+    },
+    {
+      "id": 6,
+      "name": "Pizza Platter",
+      "url": "https://images.pexels.com/photos/1028433/pexels-photo-1028433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 2
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Mousse",
+      "url": "https://images.pexels.com/photos/3026810/pexels-photo-3026810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 2
+    },
+    {
+      "id": 8,
+      "name": "Diabeetus",
+      "url": "https://images.pexels.com/photos/1146758/pexels-photo-1146758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 2
+    },
+    {
+      "id": 9,
+      "name": "Cheeeeese Burger",
+      "url": "https://images.pexels.com/photos/3052364/pexels-photo-3052364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 2
+    },
+    {
+      "id": 10,
+      "name": "Gotta Have That Chicken",
+      "url": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 2
+    },
+
+
+    {
+      "id": 11,
+      "name": "Foxy Baby",
+      "url": "https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 12,
+      "name": "Little Minion",
+      "url": "https://images.pexels.com/photos/840326/pexels-photo-840326.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 13,
+      "name": "Pick Me Up",
+      "url": "https://images.pexels.com/photos/1805781/pexels-photo-1805781.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 14,
+      "name": "Sleepy",
+      "url": "https://images.pexels.com/photos/3038776/pexels-photo-3038776.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 15,
+      "name": "Soak Up The Sun",
+      "url": "https://images.pexels.com/photos/16598/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 16,
+      "name": "Paws",
+      "url": "https://images.pexels.com/photos/1438798/pexels-photo-1438798.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+
+
+    {
+      "id": 17,
+      "name": "Self Care Reminder",
+      "url": "https://images.pexels.com/photos/2821823/pexels-photo-2821823.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 18,
+      "name": "Dreamer",
+      "url": "https://images.pexels.com/photos/279415/pexels-photo-279415.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 19,
+      "name": "Beautiful",
+      "url": "https://images.pexels.com/photos/1485548/pexels-photo-1485548.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 20,
+      "name": "Adventure Time",
+      "url": "https://images.pexels.com/photos/239329/pexels-photo-239329.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 21,
+      "name": "Views",
+      "url": "https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+
+
+    {
+      "id": 22,
+      "name": "Corner Home",
+      "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 23,
+      "name": "Master Bathroom",
+      "url": "https://images.pexels.com/photos/2134224/pexels-photo-2134224.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 24,
+      "name": "Basement Idea",
+      "url": "https://images.pexels.com/photos/261045/pexels-photo-261045.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 25,
+      "name": "Stairwell",
+      "url": "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 26,
+      "name": "Purple Lights",
+      "url": "https://images.pexels.com/photos/279858/pexels-photo-279858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 5
+    },
+    {
+      "id": 27,
+      "name": "Kitchen",
+      "url": "https://images.pexels.com/photos/210687/pexels-photo-210687.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+
+
+    {
+      "id": 27,
+      "name": "Northern Lights",
+      "url": "https://images.pexels.com/photos/2113567/pexels-photo-2113567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 6
+    },
+    {
+      "id": 28,
+      "name": "Paris",
+      "url": "https://images.pexels.com/photos/2082103/pexels-photo-2082103.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 29,
+      "name": "Thailand",
+      "url": "https://images.pexels.com/photos/2078248/pexels-photo-2078248.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 30,
+      "name": "Camel Riding",
+      "url": "https://images.pexels.com/photos/2222241/pexels-photo-2222241.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 31,
+      "name": "Greece",
+      "url": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 32,
+      "name": "India",
+      "url": "https://images.pexels.com/photos/2127463/pexels-photo-2127463.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+
+    {
+      "id": 33,
+      "name": "Shaggy",
+      "url": "https://images.pexels.com/photos/3022758/pexels-photo-3022758.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 1
+    },
+
+    {
+      "id": 34,
+      "name": "I Miss My Long Hair",
+      "url": "https://images.pexels.com/photos/1670467/pexels-photo-1670467.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 1
+    },
+
+    {
+      "id": 35,
+      "name": "No Good",
+      "url": "https://images.pexels.com/photos/1864374/pexels-photo-1864374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumId": 4
+    }
+  ]
+}
