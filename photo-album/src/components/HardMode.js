@@ -13,12 +13,12 @@ function HardMode(props) {
     const albumId = props.match.params.albumId
     const [albums, setAlbums] = useState([])
 
-    useEffect ((e) => {
-        axios.get(`/albums/${albumId}?_embed=pictures`).then(resp =>{
-            setPictures(resp.data.pictures)
-            setAlbumName(resp.data.name)
-        })
-    }, [albumId])
+    // useEffect ((e) => {
+    //     axios.get(`/albums/${albumId}?_embed=pictures`).then(resp =>{
+    //         setPictures(resp.data.pictures)
+    //         setAlbumName(resp.data.name)
+    //     })
+    // }, [albumId])
 
     useEffect ((e) => {
         axios.get("/albums/").then 
